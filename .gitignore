@@ -1,0 +1,10 @@
+.DS_Store
+._*
+__MACOSX/
+*.app/
+*.zip
+.build/
+build/
+DerivedData/
+work/
+*.dSYM/
